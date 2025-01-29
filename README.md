@@ -1,4 +1,4 @@
-# Machine-learning-image-compression-with-PCA
+# Machine learning image compression with PCA
 
 - ### Use PCA to compress the image
 -  ### This practice fulfills the following requirements:
